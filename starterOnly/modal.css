@@ -200,11 +200,9 @@ main {
   align-items: center;
 }
 
-
 .modal-body {
   padding: 15px 8%;
   margin: 15px auto;
-  margin-top: auto;
 }
 
 .modal-thanks {
