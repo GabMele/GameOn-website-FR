@@ -498,6 +498,13 @@ footer {
   padding-right: 2vw;
   margin: 0 20px;
 }
+.thanks-text {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: normal;
+} 
+
+
 @media screen and (max-width: 800px) {
   .hero-section {
     display: block;
